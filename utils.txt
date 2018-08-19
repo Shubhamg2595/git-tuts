@@ -1,2 +1,2 @@
-utility functions for version 2 of my source code
+utility functions for version 3 of my source code
 i have added new functions to my code
