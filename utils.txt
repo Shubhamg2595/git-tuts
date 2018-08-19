@@ -1,2 +1,4 @@
 utility functions for version 3 of my source code
 i have added new functions to my code
+
+making random changes to utils for version 6
